@@ -1,15 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Om meg
+permalink: /ommeg/
 ---
 
-Some information about you!
+Har i utgangspunktet to store interesser; teknologi og frivillig arbeid. Kan jeg kombinere de to er jeg ekstremt lykkelig.
 
-### More Information
+### Kontakt meg
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Epost: lars /dot/ age /at/ kamfjord /dot/ org
+Mobil: 99 59 43 43
