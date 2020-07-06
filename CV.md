@@ -68,6 +68,8 @@ Jobbet primært med overvåkingsløsninger for kunde.
 
 ## Kurs og sertifiseringer
 
+2018-06 - Microsoft Identity Manager Workshow
+
 2017-08 - KEMP loadbalancing - KEMP Qualified Engineer (sertifisering)
 
 2014-07- JunOS Routing Essentials (Juniper)
