@@ -56,6 +56,7 @@ Jobbet mye med drift av Linux-servere for skolene. Ansvar for nettverk og brannm
 Jobbet primært med overvåkingsløsninger for kunde.
 
 **2000-05 - 2001-02 - Coop Prix Borgheim - butikkmedarbeider**
+
 **1999-06 - 1999-06 - UMI AS - sommerhjelp på lageret**
 
 
@@ -65,7 +66,9 @@ Jobbet primært med overvåkingsløsninger for kunde.
 
 2001-2002 - Tønsberg maritime VGS - Grunnkurs Elektro
 
-## Kurs
+## Kurs og sertifiseringer
+
+2017-08 - KEMP loadbalancing - KEMP Qualified Engineer (sertifisering)
 
 2014-07- JunOS Routing Essentials (Juniper)
 
