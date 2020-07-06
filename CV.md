@@ -102,6 +102,27 @@ Jobbet primært med overvåkingsløsninger for kunde.
 
 2011-10 - 2013-03 - Tønsberg kommune - medlem, hovedutvalg for barn og unge
 
+## Frivillige verv (utdrag)
+
+2017-10 - dd - Kodeklubben Horten - Prosjektleder/koordinator
+
+2016-05 - dd - Kodeklubben Tønsberg - Prosjektleder/koordinator
+
+2016-01 - 2018-01 - Vestfold Digitale Ungdom - Styreleder
+
+2013-11 - 2014-11 - Tønsberg FrP - styreleder
+
+2011-11 - 2013-11 - Tønsberg FrP - nestleder og studieleder
+
+2011-02 - 2013-02 - Vestfold FrP - medlemsansvarlig
+
+2010-04 - 2011-04 - Wikimedia Norge - nestleder
+
+2009-03 - 2013-10 - Wikimedia Foundation - Steward
+
+2008-06 - 2013-10 - Wikipedia på bokmål - Administrator
+
+2009-11 - 2010-12 - Vestfold Fremskrittspartis ungdom - Fylkesformann
 
 ## Annet
 Førerkort klasse BE
