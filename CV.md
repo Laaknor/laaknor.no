@@ -27,7 +27,7 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 
 ## Arbeidserfaring
-** 2020-07 - dd. - Laaknor IT AS - styreleder/eier**
+**2020-07 - dd. - Laaknor IT AS - styreleder/eier**
 
 Programvareutvikling
 
