@@ -27,6 +27,10 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 
 ## Arbeidserfaring
+** 2020-07 - dd. - Laaknor IT AS - styreleder/eier**
+
+Programvareutvikling
+
 **2017-10 - dd. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
 
 Hovedarbeidsområde tilgangsstyring og identitetshåndtering. Sentral i arbeidet med innføring av Office365 og Azure med tilhørende tjenester.
