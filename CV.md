@@ -68,7 +68,9 @@ Jobbet primært med overvåkingsløsninger for kunde.
 
 ## Kurs og sertifiseringer
 
-2018-06 - Microsoft Identity Manager Workshow
+2020-08 - ITIL 4 Foundations (sertifisering)
+
+2018-06 - Microsoft Identity Manager Workshop
 
 2017-08 - KEMP loadbalancing - KEMP Qualified Engineer (sertifisering)
 
@@ -80,7 +82,7 @@ Jobbet primært med overvåkingsløsninger for kunde.
 
 2008-01 - CheckPoint VPN-1
 
-2007-11 - Cisco CCNA (med sertifisering, bestått)
+2007-11 - Cisco CCNA (med sertifisering)
 
 2007-04 - Uninett ABC Novell Identitety Driven Management (IDM)
 
