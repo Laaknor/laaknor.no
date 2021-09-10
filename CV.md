@@ -34,7 +34,7 @@ Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgs
 
 **2020-07 - dd. - Laaknor IT AS - styreleder/eier**
 
-Programvareutvikling
+Programvareutvikling, Økonimisystemet.no - regnskapssystem for privatøkonomi.
 
 **2017-10 - 2021-07. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
 
