@@ -27,11 +27,16 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 
 ## Arbeidserfaring
+
+**2021-08 - dd. - DotNet Internals**
+Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgsarbeid/presale, og design av programendring/forarbeid før utvikling.
+
+
 **2020-07 - dd. - Laaknor IT AS - styreleder/eier**
 
 Programvareutvikling
 
-**2017-10 - dd. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
+**2017-10 - 2021-07. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
 
 Hovedarbeidsområde tilgangsstyring og identitetshåndtering. Sentral i arbeidet med innføring av Office365 og Azure med tilhørende tjenester.
 
