@@ -37,6 +37,8 @@ Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgs
 
 Programvareutvikling, Økonimisystemet.no - regnskapssystem for privatøkonomi.
 
+Konsulentarbeid innen IT-drift og sikkerhet.
+
 **2017-10 - 2021-07. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
 
 Hovedarbeidsområde tilgangsstyring og identitetshåndtering. Sentral i arbeidet med innføring av Office365 og Azure med tilhørende tjenester.
