@@ -28,7 +28,7 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 ## Arbeidserfaring
 
-**2021-08 - dd. - DotNet Internals**
+**2021-08 - dd. - DotNet Internals** - Seniorkonsulent
 
 Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgsarbeid/presale, og design av programendring/forarbeid før utvikling.
 
