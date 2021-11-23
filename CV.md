@@ -28,7 +28,11 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 ## Arbeidserfaring
 
-**2021-08 - dd. - DotNet Internals** - Seniorkonsulent
+**2021-11 - dd. - GSGroup** - Security & Compliance Manager
+
+Responsible for security and compliance for the entire group.
+
+**2021-08 - 2021-11. - DotNet Internals** - Seniorkonsulent
 
 Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgsarbeid/presale, og design av programendring/forarbeid før utvikling.
 
