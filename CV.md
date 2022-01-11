@@ -83,7 +83,7 @@ Jobbet primært med overvåkingsløsninger for kunde.
 2001-2002 - Tønsberg maritime VGS - Grunnkurs Elektro
 
 ## Kurs og sertifiseringer
-2021-05 - LEAN
+2021-05 - LEAN (sertifisering)
 
 2020-08 - ITIL 4 Foundations (sertifisering)
 
