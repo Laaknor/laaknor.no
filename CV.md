@@ -89,7 +89,7 @@ Jobbet primært med overvåkingsløsninger for kunde.
 
 2018-06 - Microsoft Identity Manager Workshop
 
-2017-08 - KEMP loadbalancing - KEMP Qualified Engineer (sertifisering)
+2014-08 - KEMP loadbalancing - KEMP Qualified Engineer (sertifisering)
 
 2014-07- JunOS Routing Essentials (Juniper)
 
