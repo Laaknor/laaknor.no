@@ -39,7 +39,7 @@ Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgs
 
 **2020-07 - dd. - Laaknor IT AS - styreleder/eier**
 
-Programvareutvikling, Økonomisystemet.no - regnskapssystem for privatøkonomi.
+Programvareutvikling, [Økonomisystemet.no](https://okonomisystemet.no) - regnskapssystem for privatøkonomi.
 
 Konsulentarbeid innen IT-drift og sikkerhet.
 
