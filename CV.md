@@ -21,7 +21,7 @@ E-post: lars *dot* age *at* kamfjord *dot* org
 
 ## Nøkkelkvalifikasjoner
 
-Sterke kunnskaper om Nettverk, ITIL, automatisering, teknisk prosjektledelse, Identitetshåndtering, klientadministrasjon, informasjonssikkerhet, feilsøking av komplekse problemstillinger.
+Sterke kunnskaper om Nettverk, Identitetshåndtering (IDM/IAM), klientadministrasjon, informasjonssikkerhet, ITIL, automatisering, teknisk prosjektledelse, feilsøking av komplekse problemstillinger.
 
 Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
