@@ -28,7 +28,13 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 ## Arbeidserfaring
 
-**2021-11 - dd. - GSGroup** - Security & Compliance Manager
+**2020-07 - dd. - Laaknor IT AS - styreleder/eier/daglig leder**
+
+Programvareutvikling, [Økonomisystemet.no](https://okonomisystemet.no) - regnskapssystem for privatøkonomi.
+
+Konsulentarbeid innen IT-drift og sikkerhet.
+
+**2021-11 - 2022-02. - GSGroup** - Security & Compliance Manager
 
 Responsible for security and compliance for the entire group.
 
@@ -36,12 +42,6 @@ Responsible for security and compliance for the entire group.
 
 Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgsarbeid/presale, og design av programendring/forarbeid før utvikling.
 
-
-**2020-07 - dd. - Laaknor IT AS - styreleder/eier**
-
-Programvareutvikling, [Økonomisystemet.no](https://okonomisystemet.no) - regnskapssystem for privatøkonomi.
-
-Konsulentarbeid innen IT-drift og sikkerhet.
 
 **2017-10 - 2021-07. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
 
