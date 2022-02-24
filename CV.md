@@ -16,7 +16,7 @@ Født: 12. desember 1985
 
 Mobil: 99 59 43 43
 
-E-post: lars *dot* age *at* kamfjord *dot* org
+E-post: lars *dot* age *at* laaknor *dot* no
 
 
 ## Nøkkelkvalifikasjoner
