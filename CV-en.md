@@ -8,17 +8,17 @@ permalink: /CV/LarsAge-eng
 ## Personal information
 Name: Lars Åge Kamfjord
 
-Adress: Kirkeveien 316, 3140 Nøtterøy, Norway
+Address: Kirkeveien 316, 3140 Nøtterøy, Norway
 
 Born: December 12th, 1985
 
-Mobile: 99 59 43 43
+Mobile: +47 99 59 43 43
 
 E-mail: lars *dot* age *at* laaknor *dot* no
 
 
 ## Key qualifications
-Strong knowledge in computer networking, identety management (IDM/IAM), client management (SCCM, Intune), information security (penetration testing), ITIL, automation/scripting, technical project management, troubleshooting complex problems.
+Strong knowledge in computer networking, identety management (IDM/IAM), client management (SCCM, Intune), information security (penetration testing, risk management), ITIL, automation/scripting, technical project management, troubleshooting complex problems.
 
 Experience with DevOps, programming (PHP, JavaScript) and team leadership
 
@@ -26,7 +26,7 @@ Experience with DevOps, programming (PHP, JavaScript) and team leadership
 
 ## Work experience
 
-**2020-07 - . - Laaknor IT AS - chairman/owner/CEO**
+**2020-07  - Laaknor IT AS - chairman/owner/CEO**
 
 Freelance consulting within my key qualifications.
 
@@ -54,47 +54,45 @@ Operation of network, System CEnter, Hyper-V, Linux and monitoring
 **2014-05 - 2015-12 - IKT Axxess - Senior systemconsultant**
 Main respinsibility for network and security. Also worked on Office365 and Azure. Technical project manager for implementing a large WLAN-project for Oslo municipality, for implementation of exams for up to 3700 conncurrent users.
 
-**2005-08 - 2014-04 - Tønsberg kommune - IKT-rådgiver**
+**2005-08 - 2014-04 - Tønsberg municipality - IKT-advisor**
 
-Begynte på 2. linje brukerstøtte for skolene, endret stilling til ansvar for nettverk fra 2007. Novell/Suse Linux, Identietshåndtering/FEIDE, Active Directory, System Center Configuration Manager, Zimbra gruppevare. Deltatt i større nettverksprosjekt for felles nettverk mellom kommunene i området, samt design av ny felles Active Directory-skog. 
+Started working 2nd line support, changed job to responsible for network (Cisco, HP, Check Point, Fortinet) in 2007. Worked with Novell/Suse Linux, Identity management, Active Directory, System Center Configuration Manager, Zimbra groupware. Participated in large network project for a common network between the municipalities in the area and design of new Active Directory-forest.
 
-**2003-08 - 2005-07 - Nøtterøy kommune - IKT-lærling**
+**2003-08 - 2005-07 - Nøtterøy municipality - IKT-apprentice**
 
-Jobbet mye med drift av Linux-servere for skolene. Ansvar for nettverk og brannmur. Deltatt i prosjekt for ny skoleløsning for Tønsberg og Nøtterøy basert på Novell.
+Worked with operation of Linux servers for the schools. Responsible for network and firewall. Participated in project for new solution for all the schools in Tønsberg and Nøtterøy based on Novell.
 
-**2001-11 - 2002-05 - Sønnico Kommunikasjon - etter skoletid-hjelp**
+**2001-11 - 2002-05 - Sønnico Communication - after school-help**
 
-Jobbet primært med overvåkingsløsninger for kunde.
-
-**2000-05 - 2001-02 - Coop Prix Borgheim - butikkmedarbeider**
-
-**1999-06 - 1999-06 - UMI AS - sommerhjelp på lageret**
+Worked with network monitoring for customer.
 
 
-## Utdanning
 
-2002-2003 - Tønsberg maritime VGS - IKT-driftsfag
 
-2001-2002 - Tønsberg maritime VGS - Grunnkurs Elektro
+## Education
 
-## Kurs og sertifiseringer
-2021-05 - LEAN (sertifisering)
+2002-2003 - Tønsberg maritime VGS - IKT-operations
 
-2020-08 - ITIL 4 Foundations (sertifisering)
+2001-2002 - Tønsberg maritime VGS - Electro
+
+## Courses and certifications
+2021-05 - LEAN (certification)
+
+2020-08 - ITIL 4 Foundations (certification)
 
 2018-06 - Microsoft Identity Manager Workshop
 
-2014-08 - KEMP loadbalancing - KEMP Qualified Engineer (sertifisering)
+2014-08 - KEMP loadbalancing - KEMP Qualified Engineer (certification)
 
 2014-07- JunOS Routing Essentials (Juniper)
 
 2014-07 - Introduction to JunOS (Juniper)
 
-2010-06 - Talentutviklingskurs Fremskrittspartiet - Kommunikasjon, pressehåndtering, tale og debatteknikk
+2010-06 - Political course - Communication, press handling, speech and debate technique
 
 2008-01 - CheckPoint VPN-1
 
-2007-11 - Cisco CCNA (med sertifisering)
+2007-11 - Cisco CCNA (certification)
 
 2007-04 - Uninett ABC Novell Identitety Driven Management (IDM)
 
@@ -103,45 +101,21 @@ Jobbet primært med overvåkingsløsninger for kunde.
 2006-03 - HP Procurve Manager
 
 
-## Offentlige verv
+## Public office
 
-2020-01 - dd - Vestfold og Telemark Fylkeskommune - Prøvenemnd for IKT-servicefag
+2020-01 - dd - Vestfold og Telemark County - Board of Examiners for IKT
 
-2013-01 - dd - Tønsberg tingrett - meddommer
+2013-01 - dd - Tønsberg court - co-judge
 
-2017-10 - 2019-10 - Færder kommune - medlem av kontrollutvalget
+2017-10 - 2019-10 - Færder municipality - member of control committee
 
-2015-10 - 2017-12 - Nøtterøy kommune 1. varamedlem til kommunestyret (møtte stort sett hvert møte)
+2015-10 - 2017-12 - Nøtterøy municipality 1th deputy member for the municipal council
 
-2015-10 - 2017-12 - Nøtterøy kommune 1. varamedlem til hovedutvalg for helse og omsorg
+2015-10 - 2017-12 - Nøtterøy kommune 1th deputy member for the council on health and care
 
-2013-01 - 2015-12 - Fylkesnemnda for barnevern og sosiale saker i Buskerud og Vestfold - nemndmedlem
+2013-01 - 2015-12 - The county board for child welfare and social affairs in Buskerud and Vestfold - member
 
-2011-10 - 2013-03 - Tønsberg kommune - Nestleder, hovedutvalg for kultur og frivillighet
+2011-10 - 2013-03 - Tønsberg municipality - deputy chairman, council on culture and volunteering
 
-2011-10 - 2013-03 - Tønsberg kommune - medlem, hovedutvalg for barn og unge
+2011-10 - 2013-03 - Tønsberg kommune - member, council on child and youth
 
-## Frivillige verv (utdrag)
-
-2017-10 - dd - Kodeklubben Horten - Prosjektleder/koordinator
-
-2016-05 - dd - Kodeklubben Tønsberg - Prosjektleder/koordinator
-
-2016-01 - 2018-01 - Vestfold Digitale Ungdom - Styreleder
-
-2013-11 - 2014-11 - Tønsberg FrP - styreleder
-
-2011-11 - 2013-11 - Tønsberg FrP - nestleder og studieleder
-
-2011-02 - 2013-02 - Vestfold FrP - medlemsansvarlig
-
-2010-04 - 2011-04 - Wikimedia Norge - nestleder
-
-2009-03 - 2013-10 - Wikimedia Foundation - Steward
-
-2008-06 - 2013-10 - Wikipedia på bokmål - Administrator
-
-2009-11 - 2010-12 - Vestfold Fremskrittspartis ungdom - Fylkesformann
-
-## Annet
-Førerkort klasse BE
