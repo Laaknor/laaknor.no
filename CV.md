@@ -28,6 +28,10 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 ## Arbeidserfaring
 
+**2022-08 - dd. - Laaknor Isbar'n AS - styreleder/eier/daglig leder**
+
+Salg av is og drikke. Hovedoppgaver er rekrutering, personaloppfølging, internkontroll, markedsføring, opplæring, etc.
+
 **2020-07 - dd. - Laaknor IT AS - styreleder/eier/daglig leder**
 
 Programvareutvikling, [Økonomisystemet.no](https://okonomisystemet.no) - regnskapssystem for privatøkonomi.
