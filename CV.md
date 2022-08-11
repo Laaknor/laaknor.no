@@ -25,6 +25,13 @@ Sterke kunnskaper om Nettverk, Identitetshåndtering (IDM/IAM), klientadministra
 
 Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
+## Prosjekter
+
+Prosjekter gjennomført som konsulent
+
+** 2022-02 - dd. Sykehuspartner**
+
+Prosjektansatt for å jobbe med oppgradering av PCer med medinisk teknisk utstyr til Windows 10.
 
 ## Arbeidserfaring
 
