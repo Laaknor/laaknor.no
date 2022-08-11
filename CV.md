@@ -29,7 +29,7 @@ Erfaring med DevOps, programmering, ledelse i frivillig sektor
 
 Prosjekter gjennomført som konsulent
 
-** 2022-02 - dd. Sykehuspartner**
+**2022-02 - dd. Sykehuspartner**
 
 Prosjektansatt for å jobbe med oppgradering av PCer med medinisk teknisk utstyr til Windows 10.
 
