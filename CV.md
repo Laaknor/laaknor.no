@@ -31,7 +31,7 @@ Prosjekter gjennomført som konsulent
 
 **2022-02 - dd. Sykehuspartner**
 
-Prosjektansatt for å jobbe med oppgradering av PCer med medinisk teknisk utstyr til Windows 10.
+Prosjektansatt for å jobbe med oppgradering av PCer med medinisk teknisk utstyr til Windows 10. Kartlegging og innhenting av informasjon fra mange kilder, dokumentasjon, risikovurdering og omlegging av klientmaskiner med spesielle behov.
 
 ## Arbeidserfaring
 
@@ -41,13 +41,13 @@ Salg av is og drikke. Hovedoppgaver er rekrutering, personaloppfølging, internk
 
 **2020-07 - dd. - Laaknor IT AS - styreleder/eier/daglig leder**
 
-Programvareutvikling, [Økonomisystemet.no](https://okonomisystemet.no) - regnskapssystem for privatøkonomi.
+Konsulentarbeid innen IT-drift og sikkerhet. Nettverk, klientadministrasjon, Office365/Azure, Identitetshåndtering (IAM/IDM), penetrasjonstesting
 
-Konsulentarbeid innen IT-drift og sikkerhet.
+Mindre programmeringsprosjekter i egen regi og for kunder.
 
 **2021-11 - 2022-02. - GSGroup** - Security & Compliance Manager
 
-Responsible for security and compliance for the entire group.
+Sikkerhet og samsvarsansvarlig for hele konsernet.
 
 **2021-08 - 2021-11. - DotNet Internals** - Seniorkonsulent
 
