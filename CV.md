@@ -56,11 +56,11 @@ Seniorkonsulent implementering av IAM. Fakturerende konsulent, bistand til salgs
 
 **2017-10 - 2021-07. - Barne,- Ungdoms og Familieetaten - seniorrådgiver**
 
-Hovedarbeidsområde tilgangsstyring og identitetshåndtering. Sentral i arbeidet med innføring av Office365 og Azure med tilhørende tjenester.
+Hovedarbeidsområde tilgangsstyring og identitetshåndtering. Sentral i arbeidet med innføring av Office365 og Azure med tilhørende tjenester. Jobbet endel med overvåking med Splunk
 
 **2016-08 - 2017-09 - Solve Forretningspartner - senior IT konsulent**
 
-Drift og utvikling av nettverk, trådløst, Windowsserver, System Center, Office365 og arkitektur/design.
+Drift og utvikling av nettverk, trådløst, Windowsserver, System Center, Office365 og arkitektur/design. Drift av SAN og backupløsninger.
 
 **2016-01 - 2016-06 - 4human IT - seniorkonsulent**
 
@@ -68,11 +68,11 @@ Drift av nettverk, System Center, Hyper-V, Linux og overvåking.
 
 **2014-05 - 2015-12 - IKT Axxess - Senior systemkonsulent**
 
-Hovedansvar for nettverk og sikkerhet. Til tider jobbet mye med Office365 og Azure. Teknisk ansvarlig for implementering av stort WLAN-prosjekt for Oslo kommune v/privatistkontoret i Utdanningsetaten for gjennomføring av eksamen for inntil 3700 brukere.
+Hovedansvar for nettverk og sikkerhet. Til tider jobbet mye med Office365 og Azure og flytting av kunder til skytjenester. Teknisk ansvarlig for implementering av stort WLAN-prosjekt for Oslo kommune v/privatistkontoret i Utdanningsetaten for gjennomføring av eksamen for inntil 3700 brukere. Bistått med drift og videreutvikling av VMware og Hyper-V for kunder.
 
 **2005-08 - 2014-04 - Tønsberg kommune - IKT-rådgiver**
 
-Begynte på 2. linje brukerstøtte for skolene, endret stilling til ansvar for nettverk fra 2007. Novell/Suse Linux, Identietshåndtering/FEIDE, Active Directory, System Center Configuration Manager, Zimbra gruppevare. Deltatt i større nettverksprosjekt for felles nettverk mellom kommunene i området, samt design av ny felles Active Directory-skog. 
+Begynte på 2. linje brukerstøtte for skolene, endret stilling til ansvar for nettverk fra 2007. Novell/Suse Linux, Identietshåndtering/FEIDE, Active Directory, System Center Configuration Manager, Zimbra gruppevare. Deltatt i større nettverksprosjekt for felles nettverk mellom kommunene i området, samt design av ny felles Active Directory-skog. Innføring av virtualsering med VMware og XenServer, samt bygging av ny Citrix-farm.
 
 **2003-08 - 2005-07 - Nøtterøy kommune - IKT-lærling**
 
