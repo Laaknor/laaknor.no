@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Velkommen til min hjemmeside!
+title: Velkommen til Laaknor IT AS
 ---
 
-Denne websiden er ment for å gi en kort oversikt over hvem jeg er.
+Laaknor IT AS drives av Lars Åge Kamfjord, og er et lite konsulentselskap som fokuserer på problemløsning. Har du IT-problemer, enten tekniske eller organisatoriske, er jeg personen som kan hjelpe deg!
