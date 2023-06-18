@@ -29,7 +29,7 @@ Erfaring med DevOps, programmering, ledelse og økonomi
 
 Prosjekter gjennomført som konsulent
 
-** 2023-03 - dd. Reitan Convenience Norway**
+**2023-03 - dd. Reitan Convenience Norway**
 
 Innleid ressurs for å bistå med klientadministrasjon. Også jobbet med prosjekt for bytte av kassesystem, dokumentasjon, lisenser, m.m.
 
