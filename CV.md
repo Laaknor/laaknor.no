@@ -23,11 +23,15 @@ E-post: lars *dot* age *at* laaknor *dot* no
 
 Sterke kunnskaper om Nettverk, Identitetshåndtering (IDM/IAM), klientadministrasjon, informasjonssikkerhet, ITIL, automatisering, teknisk prosjektledelse, feilsøking av komplekse problemstillinger.
 
-Erfaring med DevOps, programmering, ledelse i frivillig sektor
+Erfaring med DevOps, programmering, ledelse og økonomi
 
 ## Prosjekter
 
 Prosjekter gjennomført som konsulent
+
+** 2023-03 - dd. Reitan Convenience Norway**
+
+Innleid ressurs for å bistå med klientadministrasjon. Også jobbet med prosjekt for bytte av kassesystem, dokumentasjon, lisenser, m.m.
 
 **2022-02 - 2023-01. Sykehuspartner**
 
