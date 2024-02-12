@@ -31,7 +31,7 @@ Prosjekter gjennomført som konsulent
 
 **2023-03 - dd. Reitan Convenience Norway**
 
-Innleid ressurs for å bistå med klientadministrasjon. Også jobbet med prosjekt for bytte av kassesystem, dokumentasjon, lisenser, m.m.
+Innleid ressurs for å bistå med klientadministrasjon. Også jobbet med prosjekt for bytte av kassesystem, dokumentasjon, lisenser, m.m. Fungerende driftsansvarlig og sikkerhetsansvarlig.
 
 **2022-02 - 2023-01. Sykehuspartner**
 
