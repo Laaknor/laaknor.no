@@ -25,11 +25,11 @@ Experience with DevOps, programming (PHP, JavaScript) and team leadership
 
 ## Projects as consultant
 
-** 2023-03 - 2024-02 - Reitan Convience Norway
+** 2023-03 - 2024-02** - Reitan Convience Norway
 
 Client management with Intune for POS-systems, project replacing the POS-software. Temporary IT operations and security manager.
 
-** 2022-02 - 2023-01 - Sykehuspartner
+** 2022-02 - 2023-01** - Sykehuspartner
 
 Working on project replacing medical equipment running Windows 7 with Windows 10. Documentation, Risk Assessment and replacement of machines.
 
