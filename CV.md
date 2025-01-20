@@ -21,7 +21,7 @@ E-post: lars *dot* age *at* laaknor *dot* no
 
 ## Nøkkelkvalifikasjoner
 
-Sterke kunnskaper om Nettverk, Identitetshåndtering (IDM/IAM), klientadministrasjon, informasjonssikkerhet, ITIL, automatisering, teknisk prosjektledelse, feilsøking av komplekse problemstillinger.
+Sterke kunnskaper om Nettverk, Identitetshåndtering (IDM/IAM), klientadministrasjon, informasjonssikkerhet, ITIL, automatisering, teknisk prosjektledelse, feilsøking av komplekse problemstillinger. 
 
 Erfaring med DevOps, programmering, ledelse og økonomi
 
@@ -39,7 +39,11 @@ Prosjektansatt for å jobbe med oppgradering av PCer med medinisk teknisk utstyr
 
 ## Arbeidserfaring
 
-**2022-08 - dd. - Laaknor Isbar'n AS - styreleder/eier/daglig leder**
+**2024-04 - dd. - ScanSense AS - IT-ansvarlig**
+
+IT-ansvarlig for produksjonsbedrift. Utskiftning av ERP-system, fornyelse og utfasing av forskjellige IT-systemer. Budsjettansvar innenfor eget område, og fokus på prosessforbedringer gjennom hele organisasjonen.
+
+**2022-08 - 2023-08. - Laaknor Isbar'n AS - styreleder/eier/daglig leder**
 
 Salg av is og drikke. Hovedoppgaver er rekrutering, personaloppfølging, internkontroll, markedsføring, opplæring, etc.
 
