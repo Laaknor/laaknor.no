@@ -25,15 +25,15 @@ Experience with DevOps, programming (PHP, JavaScript) and team leadership
 
 ## Projects as consultant
 
-** 2024-04 - ** ScanSense AS
+**2024-04 -** - ScanSense AS
 
 IT-manager, working with all IT operation and support. Budget responsibility. Replacing of old (and critical) network and enduser equipment and software out of support. Replacement of NAV onpremise ERP-system to Business Central SaaS.
 
-** 2023-03 - 2024-02** - Reitan Convience Norway
+**2023-03 - 2024-02** - Reitan Convience Norway
 
 Client management with Intune for POS-systems, project replacing the POS-software. Temporary IT operations and security manager.
 
-** 2022-02 - 2023-01** - Sykehuspartner
+**2022-02 - 2023-01** - Sykehuspartner
 
 Working on project replacing medical equipment running Windows 7 with Windows 10. Documentation, Risk Assessment and replacement of machines.
 
@@ -131,5 +131,6 @@ Worked with network monitoring for customer.
 2011-10 - 2013-03 - Tønsberg municipality - deputy chairman, council on culture and volunteering
 
 2011-10 - 2013-03 - Tønsberg kommune - member, council on child and youth
+
 
 
